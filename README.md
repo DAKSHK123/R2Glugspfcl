@@ -1,5 +1,5 @@
 <br>Spotify Logged Out Page Basic UI with- <br/>
-<br>functional Dummy play/pause center player and</br>
+<br>functional dummy play/pause center player and</br>
 <br>sliders for volume and songprogress.</br>
 <br>Also includes basic song cards and basic playlist view.</br>
 <br>Responsive Media</br>
